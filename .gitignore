@@ -1,0 +1,5 @@
+backend/node_modules
+backend/database.json
+backend/package-lock.json
+fontend/node_modules
+fontend/package-lock.json
