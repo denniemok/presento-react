@@ -25,7 +25,7 @@ Presento is a web application designed for creating clean, straightforward slide
 
 ## Getting Started
 
-### Dependencies
+### Runtime
 
 To run this application, you are required to install node v16 or above and npm v8 or above. This application has been tested on node v16.20.2 and npm v8.19.4.
 
